@@ -9,7 +9,10 @@
     "@fontsource/heebo": "^5.0.8",
     "@fontsource/rubik": "^5.0.8",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.10.1"
+    "react-icons": "^4.10.1",
+    "date-fns": "^2.30.0",
+    "react-day-picker": "^8.8.0",
+    "react-time-picker": "^6.5.0"
   },
   "devDependencies": {}
 }
